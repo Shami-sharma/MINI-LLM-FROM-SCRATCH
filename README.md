@@ -123,4 +123,4 @@ The model is able to learn basic character patterns and generate text that resem
 
 ## Author
 
-Debashish Mishra
+Shami kumar
